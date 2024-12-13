@@ -17,31 +17,6 @@
   <br/>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#project-scope">Project Scope</a></li>
-        <li><a href="#project-design">Project Design</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
@@ -109,7 +84,14 @@ You should have the below software installed in your pc :
    git clone https://github.com/Rahulmishra14/Firewall.git
    ```
 
-3. Open project in IDE or text editor
+2. Open project in IDE or text editor
+
+### Dependencies
+
+Install the dependencies using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
