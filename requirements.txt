@@ -1,0 +1,2 @@
+scapy==2.5.0
+pydivert==0.3.0
