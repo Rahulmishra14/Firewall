@@ -120,7 +120,7 @@ You should have the below software installed in your pc :
 <!-- CONTACT -->
 ## Contact
 
-> Rahul Mishra - [linkedin.com/in/rahul-mishra123]( https:/www.linkedin.com/in/rahul-mishra123/ ) - <rahulmishra02022001@gmail.com>
+> Rahul Mishra  - <rahulmishra02022001@gmail.com>
 
 Project Link: [https://github.com/Rahulmishra14/Firewall](https://github.com/Rahulmishra14/Firewall)
 
