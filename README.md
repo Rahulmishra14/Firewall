@@ -103,11 +103,10 @@ You should have the below software installed in your pc :
 
 ### Installation
 
-1. Get a free API Key at [https://github.com/settings/tokens](https://github.com/settings/tokens)
-2. Clone the repo
+1. Clone the repo
 
    ```sh
-   git clone https://github.com/kudzaiprichard/python-packet-filter-firewall
+   git clone https://github.com/Rahulmishra14/Firewall.git
    ```
 
 3. Open project in IDE or text editor
@@ -115,50 +114,15 @@ You should have the below software installed in your pc :
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!--CONTRIBUTING-->
-## Contributing
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### :fire: Contribution
-
-Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
-
-1. **Report a bug** <br>
-   If you think you have encountered a bug, and I should know about it, feel free to report it [here]() and I will take care of it.
-
-2. **Request a feature** <br>
-   You can also request for a feature [here](), and if it will viable, it will be picked for development.
-
-3. **Create a pull request** <br>
-   It can't get better than this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
-
-> If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-> Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](https://linkedin.com/in/kudzai-prichard) - <kudzaiprichard@gmail.com>
+> Rahul Mishra - [linkedin.com/in/rahul-mishra123]( https:/www.linkedin.com/in/rahul-mishra123/ ) - <rahulmishra02022001@gmail.com>
 
-Project Link: [https://github.com/kudzaiprichard/python-packet-filter-firewall](https://github.com/kudzaiprichard/python-packet-filter-firewall)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Project Link: [https://github.com/Rahulmishra14/Firewall](https://github.com/Rahulmishra14/Firewall)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
