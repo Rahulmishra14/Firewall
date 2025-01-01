@@ -92,6 +92,7 @@ Install the dependencies using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
